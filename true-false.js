@@ -1,6 +1,6 @@
 //23-2 Truthy and Falsy values
-//False Value: 0/""/undefined/null/NaN/false
-//Truthy Value: "0"/" "/[]
+//Falsy Value: 0/""/undefined/null/NaN/false
+//Truthy Value: "0"/" "/[]/{}/'false'
 //Any Number +ve or -ve condition will be true
 //Condition will be false when it is only = 0   
 const age = 0; // May be +ve, -ve or 0
