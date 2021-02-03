@@ -13,11 +13,9 @@ const ids = students.map(s => s.id);
 console.log(ids);
 
 //Filter
-const bigger = students.filter(s => s.id>3
-);
+const bigger = students.filter(s => s.id>3);
 console.log(bigger);
 
 //Find
-const biggerOne = students.find(s => s.id>3
-);
+const biggerOne = students.find(s => s.id>3);
 console.log(biggerOne);
