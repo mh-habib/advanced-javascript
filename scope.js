@@ -1,3 +1,4 @@
+//23-7 Scope, block scope, access outer scope variable
 let bonus =20; //Global access able from inside {} and outside also 
 function sum(first, second){
     let result = first + second; //Result's scope is only inside the function {}
