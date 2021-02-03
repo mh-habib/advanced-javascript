@@ -9,7 +9,7 @@ const partRemoved = numbers.splice(2, 5, 77, 66, 55);//From 2nd position to next
 console.log(partRemoved);
 console.log(numbers);
 
-//Array Joining
+//Array Joining to create string
 const together1 = numbers.join(""); //Just remove all , and space
 const together2 = numbers.join(" "); //Just joined by space
 const together3 = numbers.join(" and "); //Just joined by and
