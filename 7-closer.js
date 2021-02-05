@@ -1,3 +1,4 @@
+//23-8 Closure, encapsulation, private variable
 function stopWatch(){
     let count = 0;
     return function () {
