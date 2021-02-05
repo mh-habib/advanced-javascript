@@ -8,7 +8,6 @@ const output = sum(3, 5);
 console.log(output);
 
 //If we declare any variable inside a condition by var then it will be whisted to mother function and access able  
-
 //what is whisting?
 //What is block scop?
 //What is global scop?
